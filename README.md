@@ -1,4 +1,4 @@
-![Banner](http://innoverse.alwaysdata.net/img/innoverse_logo.png)
+![Banner](http://innoverse.alwaysdata.net/img/text-logo2.png)
 
 # Innoverse
 Innoverse is a project open source for recreate Miiverse for Wii U and 3DS Consoles, and too in Website.
