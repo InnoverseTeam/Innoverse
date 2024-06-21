@@ -15,3 +15,5 @@ If you want to join our discord server click [here](https://discord.gg/caSHajnf)
 
 # The team
 - [cedkeChat01](https://github/00cedke/)
+- [Fabieii](https://github/fabiee/)
+- Bunny_V6
