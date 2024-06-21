@@ -8,10 +8,10 @@ This project is created by cedkeChat01.
 That we finish creating a good clone of miiverse and that it is used and known.
 
 # More Information
-If you want more information go [here](https://github.com/InnoverseTeam/Innoverse/blob/main/MORE.md)
+If you want more information go [here](https://github.com/InnoverseTeam/Innoverse/blob/main/MORE.md).
 
 # Discord Server
-If you want to join our discord server click [here](https://discord.gg/caSHajnf)
+If you want to join our discord server click [here](https://discord.gg/caSHajnf).
 
 # The team
 - [cedkeChat01](https://github/00cedke/)
