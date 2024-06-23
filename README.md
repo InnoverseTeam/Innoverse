@@ -17,3 +17,4 @@ If you want to join our discord server click [here](https://discord.gg/caSHajnf)
 - [cedkeChat01](https://github/00cedke/)
 - [Fabieii](https://github.com/Fabieii)
 - Bunny_V6
+- IsOneRandomMaltion
