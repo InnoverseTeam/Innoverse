@@ -16,6 +16,5 @@
 
 # The team
 - [cedkeChat01](https://github/00cedke/)
-- [Fabieii](https://github.com/Fabieii)
 - Bunny_V6
 - IsOneRandomMaltion
