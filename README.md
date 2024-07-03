@@ -16,7 +16,4 @@
 
 # The team
 - [cedkeChat01](https://github/00cedke/).
-- Bunny_V6 (japenese translation).
-- IsOneRandomMaltion (spanish translation).
-- Azura (Spanish/mexico translation).
 - Tsuno (Innoverse Helper & Discord service).
