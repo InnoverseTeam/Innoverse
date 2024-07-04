@@ -16,4 +16,4 @@
 
 # The team
 - [cedkeChat01](https://github/00cedke/).
-- Tsuno (Innoverse Helper & Discord service).
+- Tsuno (Discord service & Web Host Helper).
