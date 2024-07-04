@@ -15,5 +15,5 @@
 - If you want to join our discord server click [here](https://discord.gg/caSHajnf).
 
 # The team
-- [cedkeChat01](https://github/00cedke/).
+- [cedkeChat01](https://github/00cedke/) (Owner of the project).
 - Tsuno (Discord service & Web Host Helper).
