@@ -1,1 +1,2 @@
+# Innoverse Project
 - The Innoverse project is made to revive Miiverse but with new collaborations and also new features that were not previously on Miiverse, such as a personalized profile picture or many other functions.
