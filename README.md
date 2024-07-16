@@ -6,7 +6,8 @@
 
 # Goals
 - That we finish creating a good clone of miiverse and that it is used and known.
-- To make the Nintendo Network ID hash work again to make mii images work for Wii U and 3DS
+- To create a profile picture system instead of Miis.
+- To make Innoverse (Discovery) redirects work.
 
 # More Information
 - If you want more information go [here](https://github.com/InnoverseTeam/Innoverse/blob/main/MORE.md).
