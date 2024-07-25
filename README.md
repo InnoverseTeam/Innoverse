@@ -7,7 +7,8 @@
 # Goals
 - That we finish creating a good clone of miiverse and that it is used and known.
 - To create a profile picture system instead of Miis.
-- To make Innoverse (Discovery) redirects work.
+- To make Innoverse for 3DS for 3DS Users.
+- To make API for Innoverse.
 
 # More Information
 - If you want more information go [here](https://github.com/InnoverseTeam/Innoverse/blob/main/MORE.md).
