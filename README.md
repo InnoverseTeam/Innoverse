@@ -18,4 +18,3 @@
 
 # The team
 - [cedkeChat01](https://github/00cedke/) (Owner of the project).
-- Tsuno (Discord service & Web Host Helper).
